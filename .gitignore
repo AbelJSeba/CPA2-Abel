@@ -1,0 +1,7 @@
+QRCodeScanner/node_modules
+*/target
+py_scripts/keypair.json
+py_scripts/program_id.txt
+client/node_modules
+*/test-ledger
+.DS_Store
